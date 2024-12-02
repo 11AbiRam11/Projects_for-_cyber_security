@@ -1,3 +1,5 @@
+#this is the crappy passwd encryptor 
+
 import values as v
 import actualval as av
 ui = input("enter: ")
